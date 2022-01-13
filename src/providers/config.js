@@ -1,8 +1,8 @@
 import React from "react";
 import { createChatBotMessage } from "react-chatbot-kit";
 
-import WidgetOptions from "./components/WidgetOptions/WidgetOptions";
-import OptionList from "./components/OptionList/OptionList";
+import WidgetOptions from "../components/WidgetOptions/WidgetOptions";
+import OptionList from "../components/OptionList/OptionList";
 
 const botName = "Maria";
 
