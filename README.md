@@ -1,6 +1,6 @@
 # Getting Started with ChatBot App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and Powered by [react-chatbot-kit](https://fredrikoseberg.github.io/react-chatbot-kit-docs/docs/).
 
 ## Available Scripts
 
